@@ -1,1 +1,6 @@
 Este arquivo irá conter o conteúdo de comandos da branch secundária
+
+git checkout -b <nome_arquivo> -> cria uma branch nova, ela é uma versão da sua pasta main
+git checkout <nome_branch> -> altera para qual branch você ira usar
+git merge <nome_branch> -> este você usa na branch que irá mesclar, exemplo, você está na main e irá passar a secundaria para a principal, como um save.
+
