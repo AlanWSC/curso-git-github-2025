@@ -4,6 +4,7 @@ git add nome_arquivo -> adiiona arquivo para ser commitado
 git commit -m "msg" -> faz commit do que estava para ser commitado
 git log -> mostra todo o histórico de commit
 git diff <nome_arquivo> -> para saber o que tem de diferença do estado atual para o estado anterior
+git reset <nome_arquivo> -> retira um ou mais arquivos que estão pré commitados(estão no add)
 
 ## Fluxo de trabalho
 
